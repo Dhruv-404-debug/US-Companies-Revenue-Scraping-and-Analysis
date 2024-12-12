@@ -6,14 +6,31 @@ In this project, data was scraped from the Wikipedia page List of Largest Compan
 The processed data was visualized using Tableau, providing interactive dashboards that display:
 
 Market share of industries by revenue.
+
+
 Revenue comparison of the top 10 companies.
+
+
 Number of employees by industry.
+
+
 The repository contains:
 
 Python script for web scraping using BeautifulSoup.
+
 Jupyter notebook for data cleaning, analysis, and visualization.
+
+
 Tableau dashboard showcasing insights derived from the dataset.
+
+
 Key Technologies Used:
+
+
 BeautifulSoup (for web scraping)
+
+
 Pandas (for data cleaning and analysis)
+
+
 Tableau (for data visualization)
