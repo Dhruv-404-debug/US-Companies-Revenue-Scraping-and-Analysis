@@ -5,6 +5,8 @@ In this project, data was scraped from the Wikipedia page List of Largest Compan
 
 URL: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
 
+Visulaization: https://public.tableau.com/app/profile/dhruv.patel5669/viz/Analysis_Top100_US_company/Dashboard1
+
 The processed data was visualized using Tableau, providing interactive dashboards that display:
 
 Market share of industries by revenue.
