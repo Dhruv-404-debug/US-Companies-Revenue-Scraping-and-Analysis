@@ -3,6 +3,8 @@
 Description:
 In this project, data was scraped from the Wikipedia page List of Largest Companies in the United States by Revenue using BeautifulSoup. The scraped data was then cleaned and processed using Pandas to extract meaningful insights into the top 100 US companies by revenue. After cleaning the dataset, key metrics such as revenue and employee numbers by industry were analyzed.
 
+URL: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
+
 The processed data was visualized using Tableau, providing interactive dashboards that display:
 
 Market share of industries by revenue.
