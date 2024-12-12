@@ -1,4 +1,4 @@
-#Top 100 US Companies by Revenue: Web Scraping and Data Analysis
+# Top 100 US Companies by Revenue: Web Scraping and Data Analysis
 
 Description:
 In this project, data was scraped from the Wikipedia page List of Largest Companies in the United States by Revenue using BeautifulSoup. The scraped data was then cleaned and processed using Pandas to extract meaningful insights into the top 100 US companies by revenue. After cleaning the dataset, key metrics such as revenue and employee numbers by industry were analyzed.
